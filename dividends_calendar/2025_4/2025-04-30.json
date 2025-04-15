@@ -1,0 +1,99 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Wed, Apr 30, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "AGNC Investment Corp. Common Stock",
+                    "symbol": "AGNC",
+                    "dividend_Ex_Date": "4/30/2025",
+                    "payment_Date": "5/09/2025",
+                    "record_Date": "4/30/2025",
+                    "dividend_Rate": 0.12,
+                    "indicated_Annual_Dividend": 1.44,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "Alliant Energy Corporation Common Stock",
+                    "symbol": "LNT",
+                    "dividend_Ex_Date": "4/30/2025",
+                    "payment_Date": "5/15/2025",
+                    "record_Date": "4/30/2025",
+                    "dividend_Rate": 0.5075,
+                    "indicated_Annual_Dividend": 2.03,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "Cal-Maine Foods, Inc. Common Stock",
+                    "symbol": "CALM",
+                    "dividend_Ex_Date": "4/30/2025",
+                    "payment_Date": "5/15/2025",
+                    "record_Date": "4/30/2025",
+                    "dividend_Rate": 3.456,
+                    "indicated_Annual_Dividend": 5.956,
+                    "announcement_Date": "11/27/2007"
+                },
+                {
+                    "companyName": "CareCloud, Inc. 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",
+                    "symbol": "CCLDO",
+                    "dividend_Ex_Date": "4/30/2025",
+                    "payment_Date": "5/15/2025",
+                    "record_Date": "4/30/2025",
+                    "dividend_Rate": 0.18229,
+                    "indicated_Annual_Dividend": 2.18748,
+                    "announcement_Date": "3/11/2025"
+                },
+                {
+                    "companyName": "Formula Systems (1985) Ltd. American Depositary Shares",
+                    "symbol": "FORTY",
+                    "dividend_Ex_Date": "4/30/2025",
+                    "payment_Date": "5/27/2025",
+                    "record_Date": "4/30/2025",
+                    "dividend_Rate": 0.94072,
+                    "indicated_Annual_Dividend": 0.0,
+                    "announcement_Date": "3/20/2025"
+                },
+                {
+                    "companyName": "Presidio Property Trust, Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share",
+                    "symbol": "SQFTP",
+                    "dividend_Ex_Date": "4/30/2025",
+                    "payment_Date": "5/15/2025",
+                    "record_Date": "4/30/2025",
+                    "dividend_Rate": 0.19531,
+                    "indicated_Annual_Dividend": 2.34372,
+                    "announcement_Date": "4/07/2025"
+                },
+                {
+                    "companyName": "Scholastic Corporation Common Stock",
+                    "symbol": "SCHL",
+                    "dividend_Ex_Date": "4/30/2025",
+                    "payment_Date": "6/16/2025",
+                    "record_Date": "4/30/2025",
+                    "dividend_Rate": 0.2,
+                    "indicated_Annual_Dividend": 0.8,
+                    "announcement_Date": "3/19/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

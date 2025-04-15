@@ -1,0 +1,89 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Tue, Apr 8, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "First Bancorp, Inc  (ME) Common Stock",
+                    "symbol": "FNLC",
+                    "dividend_Ex_Date": "4/08/2025",
+                    "payment_Date": "4/18/2025",
+                    "record_Date": "4/08/2025",
+                    "dividend_Rate": 0.36,
+                    "indicated_Annual_Dividend": 1.44,
+                    "announcement_Date": "3/27/2025"
+                },
+                {
+                    "companyName": "JD.com, Inc. American Depositary Shares",
+                    "symbol": "JD",
+                    "dividend_Ex_Date": "4/08/2025",
+                    "payment_Date": "4/29/2025",
+                    "record_Date": "4/08/2025",
+                    "dividend_Rate": 1.0,
+                    "indicated_Annual_Dividend": 1.0,
+                    "announcement_Date": "3/06/2025"
+                },
+                {
+                    "companyName": "Manhattan Bridge Capital, Inc",
+                    "symbol": "LOAN",
+                    "dividend_Ex_Date": "4/08/2025",
+                    "payment_Date": "4/15/2025",
+                    "record_Date": "4/08/2025",
+                    "dividend_Rate": 0.115,
+                    "indicated_Annual_Dividend": 0.46,
+                    "announcement_Date": "2/05/2025"
+                },
+                {
+                    "companyName": "Millicom International Cellular S.A. Common Stock",
+                    "symbol": "TIGO",
+                    "dividend_Ex_Date": "4/08/2025",
+                    "payment_Date": "4/15/2025",
+                    "record_Date": "4/08/2025",
+                    "dividend_Rate": 0.75,
+                    "indicated_Annual_Dividend": 0.0,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "So-Young International Inc. American Depository Shares",
+                    "symbol": "SY",
+                    "dividend_Ex_Date": "4/08/2025",
+                    "payment_Date": "4/25/2025",
+                    "record_Date": "4/08/2025",
+                    "dividend_Rate": 0.0265,
+                    "indicated_Annual_Dividend": 0.0,
+                    "announcement_Date": "3/28/2025"
+                },
+                {
+                    "companyName": "Waterstone Financial, Inc. Common Stock (MD)",
+                    "symbol": "WSBF",
+                    "dividend_Ex_Date": "4/08/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/08/2025",
+                    "dividend_Rate": 0.15,
+                    "indicated_Annual_Dividend": 0.6,
+                    "announcement_Date": "3/20/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

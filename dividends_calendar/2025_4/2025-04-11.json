@@ -1,0 +1,169 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Fri, Apr 11, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Calamos Convertible and High Income Fund Common Stock",
+                    "symbol": "CHY",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.1,
+                    "indicated_Annual_Dividend": 1.2,
+                    "announcement_Date": "4/01/2025"
+                },
+                {
+                    "companyName": "Calamos Convertible Opportunities and Income Fund Common Stock",
+                    "symbol": "CHI",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.095,
+                    "indicated_Annual_Dividend": 1.14,
+                    "announcement_Date": "4/01/2025"
+                },
+                {
+                    "companyName": "Calamos Dynamic Convertible & Income Fund Common Stock",
+                    "symbol": "CCD",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.195,
+                    "indicated_Annual_Dividend": 2.34,
+                    "announcement_Date": "4/01/2025"
+                },
+                {
+                    "companyName": "Calamos Global Dynamic Income Fund Common Stock",
+                    "symbol": "CHW",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.05,
+                    "indicated_Annual_Dividend": 0.6,
+                    "announcement_Date": "4/01/2025"
+                },
+                {
+                    "companyName": "Calamos Global Total Return Fund Common Stock",
+                    "symbol": "CGO",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.08,
+                    "indicated_Annual_Dividend": 0.96,
+                    "announcement_Date": "4/01/2025"
+                },
+                {
+                    "companyName": "Calamos Long/Short Equity & Dynamic Income Trust Common Stock",
+                    "symbol": "CPZ",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.14,
+                    "indicated_Annual_Dividend": 1.68,
+                    "announcement_Date": "4/01/2025"
+                },
+                {
+                    "companyName": "Calamos Strategic Total Return Common Stock",
+                    "symbol": "CSQ",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.1025,
+                    "indicated_Annual_Dividend": 1.23,
+                    "announcement_Date": "4/01/2025"
+                },
+                {
+                    "companyName": "Cracker Barrel Old Country Store, Inc Common Stock",
+                    "symbol": "CBRL",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "5/14/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.25,
+                    "indicated_Annual_Dividend": 1.0,
+                    "announcement_Date": "2/26/2025"
+                },
+                {
+                    "companyName": "First Trust Income Opportunities ETF",
+                    "symbol": "FCEF",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.135,
+                    "indicated_Annual_Dividend": 1.62,
+                    "announcement_Date": "4/10/2025"
+                },
+                {
+                    "companyName": "Hello Group Inc. American Depositary Shares",
+                    "symbol": "MOMO",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.3,
+                    "indicated_Annual_Dividend": 0.3,
+                    "announcement_Date": "3/12/2025"
+                },
+                {
+                    "companyName": "Marvell Technology, Inc. Common Stock",
+                    "symbol": "MRVL",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.06,
+                    "indicated_Annual_Dividend": 0.24,
+                    "announcement_Date": "3/20/2025"
+                },
+                {
+                    "companyName": "Science Applications International Corporation Common Stock",
+                    "symbol": "SAIC",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/25/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.37,
+                    "indicated_Annual_Dividend": 1.48,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Strategy Shares Nasdaq 7HANDL Index ETF",
+                    "symbol": "HNDL",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/14/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.118709,
+                    "indicated_Annual_Dividend": 1.424508,
+                    "announcement_Date": "4/10/2025"
+                },
+                {
+                    "companyName": "Thornburg Income Builder Opportunities Trust Common Stock",
+                    "symbol": "TBLD",
+                    "dividend_Ex_Date": "4/11/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/11/2025",
+                    "dividend_Rate": 0.10417,
+                    "indicated_Annual_Dividend": 1.25004,
+                    "announcement_Date": "4/01/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

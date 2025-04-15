@@ -1,0 +1,129 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Mon, Apr 21, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Gladstone Capital Corporation Common Stock",
+                    "symbol": "GLAD",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.165,
+                    "indicated_Annual_Dividend": 1.98,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Gladstone Commercial Corporation 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share",
+                    "symbol": "GOODO",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.125,
+                    "indicated_Annual_Dividend": 1.5,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock",
+                    "symbol": "GOODN",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.138021,
+                    "indicated_Annual_Dividend": 1.656252,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Gladstone Commercial Corporation Real Estate Investment Trust",
+                    "symbol": "GOOD",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.1,
+                    "indicated_Annual_Dividend": 1.2,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Gladstone Investment Corporation Business Development Company",
+                    "symbol": "GAIN",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.08,
+                    "indicated_Annual_Dividend": 0.96,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Gladstone Land Corporation 5.00% Series D Cumulative Term Preferred Stock",
+                    "symbol": "LANDM",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.104167,
+                    "indicated_Annual_Dividend": 1.250004,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock",
+                    "symbol": "LANDO",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.125,
+                    "indicated_Annual_Dividend": 1.5,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Gladstone Land Corporation 6.00% Series C Cumulative Redeemable Preferred Stock",
+                    "symbol": "LANDP",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.125,
+                    "indicated_Annual_Dividend": 1.5,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Gladstone Land Corporation Common Stock",
+                    "symbol": "LAND",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.0467,
+                    "indicated_Annual_Dividend": 0.5604,
+                    "announcement_Date": "4/08/2025"
+                },
+                {
+                    "companyName": "Radius Recycling, Inc. Class A Common Stock",
+                    "symbol": "RDUS",
+                    "dividend_Ex_Date": "4/21/2025",
+                    "payment_Date": "5/05/2025",
+                    "record_Date": "4/21/2025",
+                    "dividend_Rate": 0.1875,
+                    "indicated_Annual_Dividend": 0.75,
+                    "announcement_Date": "4/01/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

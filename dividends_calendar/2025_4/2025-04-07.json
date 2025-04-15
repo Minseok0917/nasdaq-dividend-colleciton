@@ -1,0 +1,99 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Mon, Apr 7, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Erie Indemnity Company Class A Common Stock",
+                    "symbol": "ERIE",
+                    "dividend_Ex_Date": "4/07/2025",
+                    "payment_Date": "4/22/2025",
+                    "record_Date": "4/07/2025",
+                    "dividend_Rate": 1.365,
+                    "indicated_Annual_Dividend": 5.46,
+                    "announcement_Date": "2/20/2025"
+                },
+                {
+                    "companyName": "Escalade, Incorporated Common Stock",
+                    "symbol": "ESCA",
+                    "dividend_Ex_Date": "4/07/2025",
+                    "payment_Date": "4/14/2025",
+                    "record_Date": "4/07/2025",
+                    "dividend_Rate": 0.15,
+                    "indicated_Annual_Dividend": 0.6,
+                    "announcement_Date": "2/25/2025"
+                },
+                {
+                    "companyName": "NorthEast Community Bancorp, Inc. Common Stock",
+                    "symbol": "NECB",
+                    "dividend_Ex_Date": "4/07/2025",
+                    "payment_Date": "5/06/2025",
+                    "record_Date": "4/07/2025",
+                    "dividend_Rate": 0.2,
+                    "indicated_Annual_Dividend": 0.8,
+                    "announcement_Date": "3/20/2025"
+                },
+                {
+                    "companyName": "Preferred Bank Common Stock",
+                    "symbol": "PFBC",
+                    "dividend_Ex_Date": "4/07/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/07/2025",
+                    "dividend_Rate": 0.75,
+                    "indicated_Annual_Dividend": 3.0,
+                    "announcement_Date": "3/19/2025"
+                },
+                {
+                    "companyName": "Sapiens International Corporation N.V. Common Shares (Cayman Islands)",
+                    "symbol": "SPNS",
+                    "dividend_Ex_Date": "4/07/2025",
+                    "payment_Date": "4/16/2025",
+                    "record_Date": "4/07/2025",
+                    "dividend_Rate": 0.66,
+                    "indicated_Annual_Dividend": 0.58,
+                    "announcement_Date": "3/25/2025"
+                },
+                {
+                    "companyName": "Shoe Carnival, Inc. Common Stock",
+                    "symbol": "SCVL",
+                    "dividend_Ex_Date": "4/07/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/07/2025",
+                    "dividend_Rate": 0.15,
+                    "indicated_Annual_Dividend": 0.6,
+                    "announcement_Date": "3/12/2025"
+                },
+                {
+                    "companyName": "United Security Bancshares Common Stock",
+                    "symbol": "UBFO",
+                    "dividend_Ex_Date": "4/07/2025",
+                    "payment_Date": "4/22/2025",
+                    "record_Date": "4/07/2025",
+                    "dividend_Rate": 0.12,
+                    "indicated_Annual_Dividend": 0.48,
+                    "announcement_Date": "3/25/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

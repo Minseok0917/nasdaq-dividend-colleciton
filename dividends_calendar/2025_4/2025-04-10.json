@@ -1,0 +1,399 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Thu, Apr 10, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Defiance Nasdaq 100 Enhanced Options & 0DTE Income ETF",
+                    "symbol": "QQQY",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.2494,
+                    "indicated_Annual_Dividend": 12.9688,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "FAT Brands Inc. 8.25% Series B Cumulative Preferred Stock",
+                    "symbol": "FATBP",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/21/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.171875,
+                    "indicated_Annual_Dividend": 2.0625,
+                    "announcement_Date": "3/18/2025"
+                },
+                {
+                    "companyName": "Ingles Markets, Incorporated Class A Common Stock",
+                    "symbol": "IMKTA",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/17/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.165,
+                    "indicated_Annual_Dividend": 0.66,
+                    "announcement_Date": "3/31/2025"
+                },
+                {
+                    "companyName": "Intuit Inc. Common Stock",
+                    "symbol": "INTU",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/18/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 1.04,
+                    "indicated_Annual_Dividend": 4.16,
+                    "announcement_Date": "2/20/2025"
+                },
+                {
+                    "companyName": "Johnson Outdoors Inc. Class A Common Stock",
+                    "symbol": "JOUT",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/24/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.33,
+                    "indicated_Annual_Dividend": 1.32,
+                    "announcement_Date": "2/28/2025"
+                },
+                {
+                    "companyName": "Omega Flex, Inc. Common Stock",
+                    "symbol": "OFLX",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/22/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.34,
+                    "indicated_Annual_Dividend": 1.36,
+                    "announcement_Date": "3/25/2025"
+                },
+                {
+                    "companyName": "Smithfield Foods, Inc. Common Stock",
+                    "symbol": "SFD",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/22/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.25,
+                    "indicated_Annual_Dividend": 1.0,
+                    "announcement_Date": "3/24/2025"
+                },
+                {
+                    "companyName": "VictoryShares Core Intermediate Bond ETF",
+                    "symbol": "UITB",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.170753,
+                    "indicated_Annual_Dividend": 2.049036,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Core Plus Intermediate Bond ETF",
+                    "symbol": "UBND",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.090761,
+                    "indicated_Annual_Dividend": 1.089132,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Corporate Bond ETF",
+                    "symbol": "UCRD",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.076684,
+                    "indicated_Annual_Dividend": 0.920208,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Dividend Accelerator ETF",
+                    "symbol": "VSDA",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.196894,
+                    "indicated_Annual_Dividend": 2.362728,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Emerging Markets Value Momentum ETF",
+                    "symbol": "UEVM",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.07353,
+                    "indicated_Annual_Dividend": 0.88236,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Free Cash Flow ETF",
+                    "symbol": "VFLO",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.043405,
+                    "indicated_Annual_Dividend": 0.52086,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Free Cash Flow Growth ETF",
+                    "symbol": "GFLW",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.002566,
+                    "indicated_Annual_Dividend": 0.030792,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Hedged Equity Income ETF",
+                    "symbol": "HEJD",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.101687,
+                    "indicated_Annual_Dividend": 1.220244,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares International Value Momentum ETF",
+                    "symbol": "UIVM",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.270311,
+                    "indicated_Annual_Dividend": 3.243732,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares International Volatility Wtd ETF",
+                    "symbol": "CIL",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.206039,
+                    "indicated_Annual_Dividend": 2.472468,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Short-Term Bond ETF",
+                    "symbol": "USTB",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.209387,
+                    "indicated_Annual_Dividend": 2.512644,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares Small Cap Free Cash Flow ETF",
+                    "symbol": "SFLO",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.046021,
+                    "indicated_Annual_Dividend": 0.552252,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares THB Mid Cap ETF",
+                    "symbol": "MDCP",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.012022,
+                    "indicated_Annual_Dividend": 0.144264,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US 500 Enhanced Volatility Wtd ETF",
+                    "symbol": "CFO",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.097389,
+                    "indicated_Annual_Dividend": 1.168668,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US 500 Volatility Wtd ETF",
+                    "symbol": "CFA",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.117324,
+                    "indicated_Annual_Dividend": 1.407888,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US Discovery Enhanced Volatility Wtd ETF",
+                    "symbol": "CSF",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.053873,
+                    "indicated_Annual_Dividend": 0.646476,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US EQ Income Enhanced Volatility Wtd ETF",
+                    "symbol": "CDC",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.220963,
+                    "indicated_Annual_Dividend": 2.651556,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US Large Cap High Div Volatility Wtd ETF",
+                    "symbol": "CDL",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.225608,
+                    "indicated_Annual_Dividend": 2.707296,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US Multi-Factor Minimum Volatility ETF",
+                    "symbol": "VSMV",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.068509,
+                    "indicated_Annual_Dividend": 0.822108,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US Small Cap High Div Volatility Wtd ETF",
+                    "symbol": "CSB",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.144078,
+                    "indicated_Annual_Dividend": 1.728936,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US Small Cap Volatility Wtd ETF",
+                    "symbol": "CSA",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.045995,
+                    "indicated_Annual_Dividend": 0.55194,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US Small Mid Cap Value Momentum ETF",
+                    "symbol": "USVM",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.167436,
+                    "indicated_Annual_Dividend": 2.009232,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares US Value Momentum ETF",
+                    "symbol": "ULVM",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.165621,
+                    "indicated_Annual_Dividend": 1.987452,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares WestEnd Economic Cycle Bond ETF",
+                    "symbol": "BMDL",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.093637,
+                    "indicated_Annual_Dividend": 1.123644,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares WestEnd Global Equity ETF",
+                    "symbol": "GLOW",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.04921,
+                    "indicated_Annual_Dividend": 0.59052,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "VictoryShares WestEnd U.S. Sector ETF",
+                    "symbol": "MODL",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.035916,
+                    "indicated_Annual_Dividend": 0.430992,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF",
+                    "symbol": "QDTY",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.2199,
+                    "indicated_Annual_Dividend": 11.4348,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "YieldMax R2000 0DTE Covered Strategy ETF",
+                    "symbol": "RDTY",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.359,
+                    "indicated_Annual_Dividend": 18.668,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "YieldMax S&P 500 0DTE Covered Call Strategy ETF",
+                    "symbol": "SDTY",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.227,
+                    "indicated_Annual_Dividend": 11.804,
+                    "announcement_Date": "4/09/2025"
+                },
+                {
+                    "companyName": "YieldMax Short N100 Option Income Strategy ETF",
+                    "symbol": "YQQQ",
+                    "dividend_Ex_Date": "4/10/2025",
+                    "payment_Date": "4/11/2025",
+                    "record_Date": "4/10/2025",
+                    "dividend_Rate": 0.4437,
+                    "indicated_Annual_Dividend": 5.3244,
+                    "announcement_Date": "4/09/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

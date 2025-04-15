@@ -1,0 +1,399 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Tue, Apr 15, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "A-Mark Precious Metals, Inc. Common Stock",
+                    "symbol": "AMRK",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/29/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.2,
+                    "indicated_Annual_Dividend": 0.8,
+                    "announcement_Date": "4/03/2025"
+                },
+                {
+                    "companyName": "Argo Blockchain plc 8.75% Senior Notes due 2026",
+                    "symbol": "ARBKL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.5468,
+                    "indicated_Annual_Dividend": 2.1872,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Atlanticus Holdings Corporation 6.125% Senior Notes due 2026",
+                    "symbol": "ATLCL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.3828125,
+                    "indicated_Annual_Dividend": 1.53125,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "Atlas Corp. 7.125% Notes due 2027",
+                    "symbol": "ATCOL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/29/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.445313,
+                    "indicated_Annual_Dividend": 1.781252,
+                    "announcement_Date": "11/29/2024"
+                },
+                {
+                    "companyName": "B. Riley Financial, Inc. 5.00% Senior Notes due 2026",
+                    "symbol": "RILYG",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.3125,
+                    "indicated_Annual_Dividend": 1.25,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "B. Riley Financial, Inc. 5.25% Senior Notes due 2028",
+                    "symbol": "RILYZ",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.328125,
+                    "indicated_Annual_Dividend": 1.3125,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "B. Riley Financial, Inc. 5.50% Senior Notes Due 2026",
+                    "symbol": "RILYK",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.34375,
+                    "indicated_Annual_Dividend": 1.375,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",
+                    "symbol": "RILYT",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.375,
+                    "indicated_Annual_Dividend": 1.5,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",
+                    "symbol": "RILYN",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.40625,
+                    "indicated_Annual_Dividend": 1.625,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Bel Fuse Inc. Class A Common Stock",
+                    "symbol": "BELFA",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.06,
+                    "indicated_Annual_Dividend": 0.24,
+                    "announcement_Date": "2/12/2025"
+                },
+                {
+                    "companyName": "Bel Fuse Inc. Class B Common Stock",
+                    "symbol": "BELFB",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.07,
+                    "indicated_Annual_Dividend": 0.28,
+                    "announcement_Date": "2/12/2025"
+                },
+                {
+                    "companyName": "BrightSpring Health Services, Inc. Tangible Equity Unit",
+                    "symbol": "BTSGU",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.8437,
+                    "indicated_Annual_Dividend": 3.3748,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Camden National Corporation Common Stock",
+                    "symbol": "CAC",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.42,
+                    "indicated_Annual_Dividend": 1.68,
+                    "announcement_Date": "3/25/2025"
+                },
+                {
+                    "companyName": "Capital Southwest Corporation 7.75% Notes due 2028",
+                    "symbol": "CSWCZ",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.484375,
+                    "indicated_Annual_Dividend": 1.9375,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "City Holding Company Common Stock",
+                    "symbol": "CHCO",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.79,
+                    "indicated_Annual_Dividend": 3.16,
+                    "announcement_Date": "3/26/2025"
+                },
+                {
+                    "companyName": "Diversified Healthcare Trust 5.625% Senior Notes due 2042",
+                    "symbol": "DHCNI",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.3515625,
+                    "indicated_Annual_Dividend": 1.40625,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Gladstone Investment Corporation 4.875% Notes due 2028",
+                    "symbol": "GAINZ",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.3046875,
+                    "indicated_Annual_Dividend": 1.21875,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Gladstone Investment Corporation 5.00% Notes Due 2026",
+                    "symbol": "GAINN",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.3125,
+                    "indicated_Annual_Dividend": 1.25,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Gladstone Investment Corporation 7.875% Notes due 2030",
+                    "symbol": "GAINI",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.4921875,
+                    "indicated_Annual_Dividend": 1.96875,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Gladstone Investment Corporation 8.00% Notes due 2028",
+                    "symbol": "GAINL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.5,
+                    "indicated_Annual_Dividend": 2.0,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Greenidge Generation Holdings Inc. 8.50% Senior Notes due 2026",
+                    "symbol": "GREEL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.53125,
+                    "indicated_Annual_Dividend": 2.125,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Harrow,  Inc. 11.875% Senior Notes due 2027",
+                    "symbol": "HROWM",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.7421875,
+                    "indicated_Annual_Dividend": 2.96875,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Harrow, Inc. 8.625% Senior Notes due 2026",
+                    "symbol": "HROWL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.5390625,
+                    "indicated_Annual_Dividend": 2.15625,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "NewtekOne, Inc. 5.50% Notes Due 2026",
+                    "symbol": "NEWTZ",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.34375,
+                    "indicated_Annual_Dividend": 1.375,
+                    "announcement_Date": "4/01/2025"
+                },
+                {
+                    "companyName": "NewtekOne, Inc. Common Stock",
+                    "symbol": "NEWT",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.19,
+                    "indicated_Annual_Dividend": 0.76,
+                    "announcement_Date": "3/31/2025"
+                },
+                {
+                    "companyName": "Norwood Financial Corp. Common Stock",
+                    "symbol": "NWFL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.31,
+                    "indicated_Annual_Dividend": 1.24,
+                    "announcement_Date": "3/18/2025"
+                },
+                {
+                    "companyName": "OFS Capital Corporation 4.95% Notes due 2028",
+                    "symbol": "OFSSH",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.309375,
+                    "indicated_Annual_Dividend": 1.2375,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Oxford Square Capital Corp. 5.50% Notes due 2028",
+                    "symbol": "OXSQG",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.34375,
+                    "indicated_Annual_Dividend": 1.375,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Oxford Square Capital Corp. 6.25% Notes due 2026",
+                    "symbol": "OXSQZ",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.390625,
+                    "indicated_Annual_Dividend": 1.5625,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "PhenixFIN Corporation  5.25% Notes due 2028",
+                    "symbol": "PFXNZ",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.328125,
+                    "indicated_Annual_Dividend": 1.3125,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Phillips Edison & Company, Inc. Common Stock",
+                    "symbol": "PECO",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.1025,
+                    "indicated_Annual_Dividend": 1.23,
+                    "announcement_Date": "2/12/2025"
+                },
+                {
+                    "companyName": "Popular, Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
+                    "symbol": "BPOPM",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.127604,
+                    "indicated_Annual_Dividend": 1.531248,
+                    "announcement_Date": "4/04/2025"
+                },
+                {
+                    "companyName": "Ramaco Resources, Inc. 8.375% Senior Notes due 2029",
+                    "symbol": "METCZ",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.52344,
+                    "indicated_Annual_Dividend": 2.09376,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Ramaco Resources, Inc. 9.00% Senior Notes due 2026",
+                    "symbol": "METCL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.5625,
+                    "indicated_Annual_Dividend": 2.25,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Regency Centers Corporation 5.875% Series B Cumulative Redeemable Preferred Stock",
+                    "symbol": "REGCO",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.3672,
+                    "indicated_Annual_Dividend": 1.4688,
+                    "announcement_Date": "2/04/2025"
+                },
+                {
+                    "companyName": "Regency Centers Corporation 6.25% Series A Cumulative Redeemable Preferred Stock",
+                    "symbol": "REGCP",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.390625,
+                    "indicated_Annual_Dividend": 1.5625,
+                    "announcement_Date": "2/04/2025"
+                },
+                {
+                    "companyName": "Synchronoss Technologies, Inc. 8.375% Senior Notes due 2026",
+                    "symbol": "SNCRL",
+                    "dividend_Ex_Date": "4/15/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/15/2025",
+                    "dividend_Rate": 0.5234375,
+                    "indicated_Annual_Dividend": 2.09375,
+                    "announcement_Date": "4/15/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

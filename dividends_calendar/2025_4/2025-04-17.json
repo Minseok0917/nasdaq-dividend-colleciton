@@ -1,0 +1,149 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Thu, Apr 17, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Dime Community Bancshares, Inc. Common Stock",
+                    "symbol": "DCOM",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "4/24/2025",
+                    "record_Date": "4/17/2025",
+                    "dividend_Rate": 0.25,
+                    "indicated_Annual_Dividend": 1.0,
+                    "announcement_Date": "3/27/2025"
+                },
+                {
+                    "companyName": "First United Corporation Common Stock",
+                    "symbol": "FUNC",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/17/2025",
+                    "dividend_Rate": 0.22,
+                    "indicated_Annual_Dividend": 0.88,
+                    "announcement_Date": "3/05/2025"
+                },
+                {
+                    "companyName": "JOYY Inc. American Depositary Shares",
+                    "symbol": "JOYY",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/17/2025",
+                    "dividend_Rate": 0.93,
+                    "indicated_Annual_Dividend": 0.8,
+                    "announcement_Date": "3/24/2025"
+                },
+                {
+                    "companyName": "LexinFintech Holdings Ltd. American Depositary Shares",
+                    "symbol": "LX",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "5/16/2025",
+                    "record_Date": "4/17/2025",
+                    "dividend_Rate": 0.11,
+                    "indicated_Annual_Dividend": 0.144,
+                    "announcement_Date": "3/21/2025"
+                },
+                {
+                    "companyName": "Medalist Diversified REIT, Inc. Common Stock",
+                    "symbol": "MDRR",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "4/22/2025",
+                    "record_Date": "4/17/2025",
+                    "dividend_Rate": 0.0675,
+                    "indicated_Annual_Dividend": 0.26,
+                    "announcement_Date": "4/03/2025"
+                },
+                {
+                    "companyName": "OFS Credit Company, Inc. 5.25% Series E Term Preferred Stock Due 2026",
+                    "symbol": "OCCIN",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/18/2025",
+                    "dividend_Rate": 0.109375,
+                    "indicated_Annual_Dividend": 1.3125,
+                    "announcement_Date": "1/16/2025"
+                },
+                {
+                    "companyName": "OFS Credit Company, Inc. 6.125% Series C Term Preferred Stock",
+                    "symbol": "OCCIO",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/18/2025",
+                    "dividend_Rate": 0.1276042,
+                    "indicated_Annual_Dividend": 1.53125,
+                    "announcement_Date": "1/16/2025"
+                },
+                {
+                    "companyName": "OFS Credit Company, Inc. 7.875% Series F Term Preferred Stock",
+                    "symbol": "OCCIM",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/18/2025",
+                    "dividend_Rate": 0.1640625,
+                    "indicated_Annual_Dividend": 1.96875,
+                    "announcement_Date": "1/16/2025"
+                },
+                {
+                    "companyName": "OFS Credit Company, Inc. Common Stock",
+                    "symbol": "OCCI",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/18/2025",
+                    "dividend_Rate": 0.115,
+                    "indicated_Annual_Dividend": 1.38,
+                    "announcement_Date": "1/16/2025"
+                },
+                {
+                    "companyName": "Pathfinder Bancorp, Inc. Common Stock (MD)",
+                    "symbol": "PBHC",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "5/09/2025",
+                    "record_Date": "4/18/2025",
+                    "dividend_Rate": 0.1,
+                    "indicated_Annual_Dividend": 0.4,
+                    "announcement_Date": "3/31/2025"
+                },
+                {
+                    "companyName": "RGC Resources Inc. Common Stock",
+                    "symbol": "RGCO",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "5/01/2025",
+                    "record_Date": "4/17/2025",
+                    "dividend_Rate": 0.2075,
+                    "indicated_Annual_Dividend": 0.83,
+                    "announcement_Date": "3/28/2025"
+                },
+                {
+                    "companyName": "WD-40 Company Common Stock",
+                    "symbol": "WDFC",
+                    "dividend_Ex_Date": "4/17/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/18/2025",
+                    "dividend_Rate": 0.94,
+                    "indicated_Annual_Dividend": 3.76,
+                    "announcement_Date": "3/18/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

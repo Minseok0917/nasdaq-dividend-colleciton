@@ -1,0 +1,189 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Fri, Apr 4, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "BRP Inc. (Recreational Products) Common Subordinate Voting Shares",
+                    "symbol": "DOOO",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/18/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.15029,
+                    "indicated_Annual_Dividend": 0.0,
+                    "announcement_Date": "3/25/2025"
+                },
+                {
+                    "companyName": "Cadiz, Inc. Depositary Shares",
+                    "symbol": "CDZIP",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/15/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.55,
+                    "indicated_Annual_Dividend": 2.2,
+                    "announcement_Date": "3/20/2025"
+                },
+                {
+                    "companyName": "ChampionX Corporation Common Stock ",
+                    "symbol": "CHX",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/25/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.095,
+                    "indicated_Annual_Dividend": 0.38,
+                    "announcement_Date": "4/12/2025"
+                },
+                {
+                    "companyName": "Farmers & Merchants Bancorp, Inc. Common Stock",
+                    "symbol": "FMAO",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/20/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.22125,
+                    "indicated_Annual_Dividend": 0.885,
+                    "announcement_Date": "3/25/2025"
+                },
+                {
+                    "companyName": "Horizon Bancorp, Inc. Common Stock",
+                    "symbol": "HBNC",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/18/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.16,
+                    "indicated_Annual_Dividend": 0.64,
+                    "announcement_Date": "3/18/2025"
+                },
+                {
+                    "companyName": "International General Insurance Holdings Ltd. Ordinary Share",
+                    "symbol": "IGIC",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/22/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.875,
+                    "indicated_Annual_Dividend": 0.1,
+                    "announcement_Date": "3/19/2025"
+                },
+                {
+                    "companyName": "LifeMD, Inc. 8.875% Series A Cumulative Perpetual Preferred Stock",
+                    "symbol": "LFMDP",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/15/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.5546875,
+                    "indicated_Annual_Dividend": 2.21875,
+                    "announcement_Date": "3/26/2025"
+                },
+                {
+                    "companyName": "Morningstar, Inc. Common Stock",
+                    "symbol": "MORN",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.455,
+                    "indicated_Annual_Dividend": 1.82,
+                    "announcement_Date": "3/14/2025"
+                },
+                {
+                    "companyName": "National Healthcare Properties, Inc. 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
+                    "symbol": "NHPBP",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/15/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.4453125,
+                    "indicated_Annual_Dividend": 1.78125,
+                    "announcement_Date": "3/26/2025"
+                },
+                {
+                    "companyName": "National Healthcare Properties, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
+                    "symbol": "NHPAP",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/15/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.4609375,
+                    "indicated_Annual_Dividend": 1.84375,
+                    "announcement_Date": "3/26/2025"
+                },
+                {
+                    "companyName": "NetApp, Inc. Common Stock",
+                    "symbol": "NTAP",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/23/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.52,
+                    "indicated_Annual_Dividend": 2.08,
+                    "announcement_Date": "2/27/2025"
+                },
+                {
+                    "companyName": "Ocean Park High Income ETF",
+                    "symbol": "DUKH",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/09/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.1129,
+                    "indicated_Annual_Dividend": 1.3548,
+                    "announcement_Date": "4/03/2025"
+                },
+                {
+                    "companyName": "Parke Bancorp, Inc. Common Stock",
+                    "symbol": "PKBK",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/18/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.18,
+                    "indicated_Annual_Dividend": 0.72,
+                    "announcement_Date": "3/18/2025"
+                },
+                {
+                    "companyName": "Roper Technologies, Inc. Common Stock",
+                    "symbol": "ROP",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/22/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.825,
+                    "indicated_Annual_Dividend": 3.3,
+                    "announcement_Date": "3/07/2025"
+                },
+                {
+                    "companyName": "Royal Gold, Inc. Common Stock",
+                    "symbol": "RGLD",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/17/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.45,
+                    "indicated_Annual_Dividend": 1.8,
+                    "announcement_Date": "2/27/2025"
+                },
+                {
+                    "companyName": "VersaBank Common Shares",
+                    "symbol": "VBNK",
+                    "dividend_Ex_Date": "4/04/2025",
+                    "payment_Date": "4/30/2025",
+                    "record_Date": "4/04/2025",
+                    "dividend_Rate": 0.017804,
+                    "indicated_Annual_Dividend": 0.071216,
+                    "announcement_Date": "3/04/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

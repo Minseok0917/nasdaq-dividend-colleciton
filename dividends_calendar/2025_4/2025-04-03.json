@@ -1,0 +1,209 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Thu, Apr 3, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Cisco Systems, Inc. Common Stock (DE)",
+                    "symbol": "CSCO",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/23/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.41,
+                    "indicated_Annual_Dividend": 1.64,
+                    "announcement_Date": "2/12/2025"
+                },
+                {
+                    "companyName": "Defiance Nasdaq 100 Enhanced Options & 0DTE Income ETF",
+                    "symbol": "QQQY",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/04/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.2753,
+                    "indicated_Annual_Dividend": 12.9688,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "Global X Alternative Income ETF",
+                    "symbol": "ALTY",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/10/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.074,
+                    "indicated_Annual_Dividend": 0.888,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "Global X MSCI SuperDividend EAFE ETF",
+                    "symbol": "EFAS",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/10/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.0686,
+                    "indicated_Annual_Dividend": 0.8232,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "Global X SuperDividend REIT ETF",
+                    "symbol": "SRET",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/10/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.144,
+                    "indicated_Annual_Dividend": 1.728,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "Global X U.S. Electrification ETF",
+                    "symbol": "ZAP",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/10/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.135799,
+                    "indicated_Annual_Dividend": 0.543196,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "Match Group, Inc. Common Stock",
+                    "symbol": "MTCH",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/17/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.19,
+                    "indicated_Annual_Dividend": 0.76,
+                    "announcement_Date": "2/04/2025"
+                },
+                {
+                    "companyName": "Pilgrim's Pride Corporation Common Stock",
+                    "symbol": "PPC",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/17/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 6.3,
+                    "indicated_Annual_Dividend": 0.0,
+                    "announcement_Date": "3/13/2025"
+                },
+                {
+                    "companyName": "SEI Select Emerging Markets Equity ETF",
+                    "symbol": "SEEM",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/04/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.144483,
+                    "indicated_Annual_Dividend": 0.577932,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "SEI Select International Equity ETF",
+                    "symbol": "SEIE",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/04/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.149591,
+                    "indicated_Annual_Dividend": 0.598364,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "SEI Select Small Cap ETF",
+                    "symbol": "SEIS",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/04/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.059297,
+                    "indicated_Annual_Dividend": 0.237188,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "The Campbell's Company Common Stock",
+                    "symbol": "CPB",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/28/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.39,
+                    "indicated_Annual_Dividend": 1.56,
+                    "announcement_Date": "2/26/2025"
+                },
+                {
+                    "companyName": "Village Super Market, Inc. Class A Common Stock",
+                    "symbol": "VLGEA",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/24/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.25,
+                    "indicated_Annual_Dividend": 1.0,
+                    "announcement_Date": "3/14/2025"
+                },
+                {
+                    "companyName": "XOMA Royalty Corporation 8.625% Series A Cumulative Perpetual Preferred Stock",
+                    "symbol": "XOMAP",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/15/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.53906,
+                    "indicated_Annual_Dividend": 2.15624,
+                    "announcement_Date": "2/26/2025"
+                },
+                {
+                    "companyName": "XOMA Royalty Corporation Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock",
+                    "symbol": "XOMAO",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/15/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.52344,
+                    "indicated_Annual_Dividend": 2.09376,
+                    "announcement_Date": "2/26/2025"
+                },
+                {
+                    "companyName": "YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF",
+                    "symbol": "QDTY",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/04/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.2638,
+                    "indicated_Annual_Dividend": 11.4348,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "YieldMax R2000 0DTE Covered Strategy ETF",
+                    "symbol": "RDTY",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/04/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.3351,
+                    "indicated_Annual_Dividend": 18.668,
+                    "announcement_Date": "4/02/2025"
+                },
+                {
+                    "companyName": "YieldMax S&P 500 0DTE Covered Call Strategy ETF",
+                    "symbol": "SDTY",
+                    "dividend_Ex_Date": "4/03/2025",
+                    "payment_Date": "4/04/2025",
+                    "record_Date": "4/03/2025",
+                    "dividend_Rate": 0.2723,
+                    "indicated_Annual_Dividend": 11.804,
+                    "announcement_Date": "4/02/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}
