@@ -1,0 +1,8 @@
+- symbol: 주식 심볼
+- companyName: 회사 이름
+- dividend_Ex_Date: 배당락일
+- payment_Date: 배당금 지급일 (이 날짜 전에 주식을 보유해야 배당 받을 수 있음)
+- record_Date: 기록일 (이 날짜 기준으로 주주 명부에 올라 있어야 배당 대상)
+- dividend_Rate: 이번 배당금 액수
+- indicated_Annual_Dividend: 연간 기준 예상 배당금
+- announcement_Date: 배당 발표일
