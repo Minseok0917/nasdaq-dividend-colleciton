@@ -1,0 +1,89 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Fri, May 30, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Ames National Corporation Common Stock",
+                    "symbol": "ATLO",
+                    "dividend_Ex_Date": "5/30/2025",
+                    "payment_Date": "6/13/2025",
+                    "record_Date": "5/30/2025",
+                    "dividend_Rate": 0.2,
+                    "indicated_Annual_Dividend": 0.8,
+                    "announcement_Date": "2/12/2025"
+                },
+                {
+                    "companyName": "Crescent Capital BDC, Inc. Common stock",
+                    "symbol": "CCAP",
+                    "dividend_Ex_Date": "5/30/2025",
+                    "payment_Date": "6/13/2025",
+                    "record_Date": "5/30/2025",
+                    "dividend_Rate": 0.05,
+                    "indicated_Annual_Dividend": 1.68,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "Mesa Laboratories, Inc. Common Stock",
+                    "symbol": "MLAB",
+                    "dividend_Ex_Date": "5/30/2025",
+                    "payment_Date": "6/16/2025",
+                    "record_Date": "5/30/2025",
+                    "dividend_Rate": 0.16,
+                    "indicated_Annual_Dividend": 0.64,
+                    "announcement_Date": "4/07/2025"
+                },
+                {
+                    "companyName": "Presidio Property Trust, Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share",
+                    "symbol": "SQFTP",
+                    "dividend_Ex_Date": "5/30/2025",
+                    "payment_Date": "6/16/2025",
+                    "record_Date": "5/31/2025",
+                    "dividend_Rate": 0.19531,
+                    "indicated_Annual_Dividend": 2.34372,
+                    "announcement_Date": "4/07/2025"
+                },
+                {
+                    "companyName": "Ramaco Resources, Inc. Class A Common Stock",
+                    "symbol": "METC",
+                    "dividend_Ex_Date": "5/30/2025",
+                    "payment_Date": "6/13/2025",
+                    "record_Date": "5/30/2025",
+                    "dividend_Rate": 0.06875,
+                    "indicated_Annual_Dividend": 0.55,
+                    "announcement_Date": "4/15/2025"
+                },
+                {
+                    "companyName": "T-Mobile US, Inc. Common Stock",
+                    "symbol": "TMUS",
+                    "dividend_Ex_Date": "5/30/2025",
+                    "payment_Date": "6/12/2025",
+                    "record_Date": "5/30/2025",
+                    "dividend_Rate": 0.88,
+                    "indicated_Annual_Dividend": 3.52,
+                    "announcement_Date": "2/06/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

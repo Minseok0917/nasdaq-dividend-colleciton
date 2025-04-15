@@ -1,0 +1,129 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Fri, May 16, 2025",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Amgen Inc. Common Stock",
+                    "symbol": "AMGN",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "6/06/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 2.38,
+                    "indicated_Annual_Dividend": 9.52,
+                    "announcement_Date": "3/04/2025"
+                },
+                {
+                    "companyName": "Bassett Furniture Industries, Incorporated Common Stock",
+                    "symbol": "BSET",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "5/30/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 0.2,
+                    "indicated_Annual_Dividend": 0.8,
+                    "announcement_Date": "3/12/2025"
+                },
+                {
+                    "companyName": "Horizon Technology Finance Corporation Common Stock",
+                    "symbol": "HRZN",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "6/13/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 0.11,
+                    "indicated_Annual_Dividend": 1.32,
+                    "announcement_Date": "2/28/2025"
+                },
+                {
+                    "companyName": "Oxford Lane Capital Corp. 6.25% Series 2027 Term Preferred Shares",
+                    "symbol": "OXLCP",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "5/30/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 0.13020833,
+                    "indicated_Annual_Dividend": 1.5625,
+                    "announcement_Date": "1/24/2025"
+                },
+                {
+                    "companyName": "Oxford Lane Capital Corp. 7.125% Series 2029 Term Preferred Stock",
+                    "symbol": "OXLCN",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "5/30/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 0.1484375,
+                    "indicated_Annual_Dividend": 1.78125,
+                    "announcement_Date": "1/24/2025"
+                },
+                {
+                    "companyName": "Oxford Lane Capital Corp. Common Stock",
+                    "symbol": "OXLC",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "5/30/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 0.09,
+                    "indicated_Annual_Dividend": 1.08,
+                    "announcement_Date": "1/24/2025"
+                },
+                {
+                    "companyName": "Oxford Lane Capital Corp. Preferred Stock Shares, 6.00% Series 2029",
+                    "symbol": "OXLCO",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "5/30/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 0.125,
+                    "indicated_Annual_Dividend": 1.5,
+                    "announcement_Date": "1/24/2025"
+                },
+                {
+                    "companyName": "Oxford Square Capital Corp. Common Stock",
+                    "symbol": "OXSQ",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "5/30/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 0.035,
+                    "indicated_Annual_Dividend": 0.42,
+                    "announcement_Date": "2/27/2025"
+                },
+                {
+                    "companyName": "Starbucks Corporation Common Stock",
+                    "symbol": "SBUX",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "5/30/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 0.61,
+                    "indicated_Annual_Dividend": 2.44,
+                    "announcement_Date": "3/11/2025"
+                },
+                {
+                    "companyName": "Sunrise Communications AG American Depositary Shares representing Class A shares",
+                    "symbol": "SNRE",
+                    "dividend_Ex_Date": "5/16/2025",
+                    "payment_Date": "5/27/2025",
+                    "record_Date": "5/16/2025",
+                    "dividend_Rate": 3.775163,
+                    "indicated_Annual_Dividend": 0.0,
+                    "announcement_Date": "3/12/2025"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}

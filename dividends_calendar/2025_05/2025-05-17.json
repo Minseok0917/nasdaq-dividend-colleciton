@@ -1,0 +1,19 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Sat, May 17, 2025",
+            "headers": null,
+            "rows": null
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": "There are no dividends to show for this date.",
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}
